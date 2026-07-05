@@ -47,11 +47,64 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ameergulkhan1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/ameer-gul-61b681378/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ameeergul975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ameergulkhan1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ameer-gul-61b681378/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ameeergul975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ameergulkhan1.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>✨ “Code. Learn. Build. Repeat.” ✨</i></p>
+## 📌 Pinned Projects
+
+<!-- Replace these with your actual project links -->
+<p align="center">
+  <a href="https://github.com/ameergulkhan1/project1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ameergulkhan1&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ameergulkhan1/project2">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ameergulkhan1&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ameergulkhan1&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts (Optional)
+
+<!-- If you have a blog, you can add dynamic content here -->
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <i>✨ "Code. Learn. Build. Repeat." ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ameergulkhan1/ameergulkhan1/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <b>⭐️ Show some love by starring my repositories!</b>
+</p>
