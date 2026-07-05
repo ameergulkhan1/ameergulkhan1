@@ -61,35 +61,6 @@
   </a>
 </p>
 
----
-
-## 📌 Pinned Projects
-
-<!-- Replace these with your actual project links -->
-<p align="center">
-  <a href="https://github.com/ameergulkhan1/project1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ameergulkhan1&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ameergulkhan1/project2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ameergulkhan1&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameergulkhan1&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📝 Latest Blog Posts (Optional)
-
-<!-- If you have a blog, you can add dynamic content here -->
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
