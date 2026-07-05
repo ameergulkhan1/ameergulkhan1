@@ -70,11 +70,6 @@
   <i>✨ "Code. Learn. Build. Repeat." ✨</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ameergulkhan1/ameergulkhan1/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <b>⭐️ Show some love by starring my repositories!</b>
