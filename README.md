@@ -100,15 +100,18 @@ A full-stack web application with user authentication, authorization, service ma
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ameergulkhan1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameergulkhan1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ameergulkhan1&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameergulkhan1&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ameergulkhan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
