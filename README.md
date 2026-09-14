@@ -1,99 +1,81 @@
-<h1 align="center">Hi, I'm Ameer Gul Khan 👋</h1>
+# Hi there, I'm Ameer Gul Khan 👋
 
-<p align="center">
-  <strong>Full-Stack Software Developer</strong>
-</p>
+### Full-Stack Software Developer
 
-<p align="center">
-  I build full-stack web applications and production-oriented software<br/>
-  using React, Next.js, Node.js, TypeScript, and modern backend technologies.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ameergulkhan1">
-    <img src="https://komarev.com/ghpvc/?username=ameergulkhan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/ameergulkhan1?tab=followers">
-    <img src="https://img.shields.io/github/followers/ameergulkhan1?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+I build full-stack web applications and production-oriented software using **React, Next.js, Node.js, TypeScript, and modern backend technologies**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Full-Stack Software Developer focused on **React, Next.js, Node.js, and TypeScript**
-* 🚀 Building **full-stack web applications, REST APIs, and SaaS products**
-* 🗄️ Experienced with **MongoDB, MySQL, PostgreSQL, and Firebase**
-* 🔐 Interested in **authentication, API design, databases, and scalable application architecture**
-* 🌱 Continuously improving my **software engineering and system design skills**
-* 🤝 Open to **software development opportunities and meaningful collaborations**
+- 💻 Full-Stack Software Developer focused on **React, Next.js, Node.js, and TypeScript**
+- 🚀 Building full-stack applications, REST APIs, and SaaS products
+- 🗄️ Experience with **MongoDB, MySQL, PostgreSQL, and Firebase**
+- 🔐 Working with authentication, authorization, APIs, databases, and backend architecture
+- 🧩 Interested in scalable software architecture and real-world product development
+- 📚 Continuously improving my skills in software engineering and system design
+- 💼 Open to **Junior Full-Stack Developer, Associate Software Engineer, and MERN/Next.js opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" alt="Backend and Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
 </p>
 
 ### Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 Orderly
+### 📦 Orderly — Seller Order & Payment Management SaaS
 
-**Seller Order & Payment Management SaaS**
-
-A full-stack SaaS platform designed to help sellers manage orders, payments, deposits, delivery status, and business operations from a centralized dashboard.
+A SaaS platform focused on helping sellers manage orders, payments, deposits, deliveries, and business operations from a centralized dashboard.
 
 **Tech:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma
 
-> 🚧 Currently under active development.
+> 🚧 Currently in active development
 
 ---
 
 ### 💳 BNPL Installment Engine
 
-**Buy Now, Pay Later Backend System**
-
-A backend-focused application for managing installment schedules, payment processing, retry handling, and transaction workflows.
+A backend system for **Buy Now, Pay Later (BNPL)** workflows, including installment schedules, payment processing, payment retries, and transaction management.
 
 **Tech:** Node.js · Express.js · SQLite · REST API
 
+🔗 Repository:  
+https://github.com/ameergulkhan1/bootcamp-2026-The-Buy-Now-Pay-Later-BNPL-Installment-Engine
+
 ---
 
-### 🎟️ Event Management System
+### 🏥 ClinixSol — AI Healthcare Platform
 
-**Full-Stack Event Management Application**
+A healthcare platform designed to connect patients, doctors, laboratories, and pharmacies through a centralized digital system.
 
-A web application designed to manage events, users, registrations, and event-related workflows through a centralized platform.
+**Tech:** React.js · Node.js · APIs · Authentication · Database
+
+🔗 Repository:  
+https://github.com/ameergulkhan1/clinixsol-frontend
+
+---
+
+### 🎫 Event Management System
+
+A full-stack web application for managing events and related application workflows.
 
 **Tech:** React.js · Node.js · Express.js · Database
-
----
-
-### 🛒 Social Services Platform
-
-**Full-Stack Services Application**
-
-A full-stack web application with user authentication, authorization, service management, API integration, and database persistence.
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · JWT
 
 ---
 
@@ -112,26 +94,19 @@ A full-stack web application with user authentication, authorization, service ma
   />
 </p>
 
+---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/ameergulkhan1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p>
   <a href="https://www.linkedin.com/in/ameer-gul-61b681378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ameeergul975@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ameergulkhan1.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/ameergulkhan1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
+⭐ Thanks for visiting my profile!
