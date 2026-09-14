@@ -67,25 +67,31 @@ A full-stack SaaS platform designed to help sellers manage orders, payments, dep
 
 ---
 
-### 🌱 AI-Based Plant Care & Hybridization System
+### 💳 BNPL Installment Engine
 
-An AI-assisted plant management platform developed as a full-stack academic project.
+**Buy Now, Pay Later Backend System**
 
-**Features include:**
+A backend-focused application for managing installment schedules, payment processing, retry handling, and transaction workflows.
 
-* Plant identification
-* Plant disease detection
-* Growth tracking
-* Hybridization and trait recommendations
-* Regional climate-based recommendations
+**Tech:** Node.js · Express.js · SQLite · REST API
 
-**Tech:** React.js · Node.js · Python · Firebase
+---
+
+### 🎟️ Event Management System
+
+**Full-Stack Event Management Application**
+
+A web application designed to manage events, users, registrations, and event-related workflows through a centralized platform.
+
+**Tech:** React.js · Node.js · Express.js · Database
 
 ---
 
 ### 🛒 Social Services Platform
 
-A full-stack web application for managing services and user interactions with authentication, authorization, service management, and API integration.
+**Full-Stack Services Application**
+
+A full-stack web application with user authentication, authorization, service management, API integration, and database persistence.
 
 **Tech:** React.js · Node.js · Express.js · MongoDB · JWT
 
