@@ -1,85 +1,142 @@
-# Hi there, I'm Ameer Gul Khan 👋
+# Ameer Gul Khan
 
 ### Full-Stack Software Developer
 
-I build full-stack web applications and production-oriented software using **React, Next.js, Node.js, TypeScript, and modern backend technologies**.
+I build **full-stack web applications, backend services, and SaaS products** with a focus on reliable APIs, database-driven systems, authentication, and real-world business workflows.
+
+**Primary stack:** React · Next.js · TypeScript · Node.js · PostgreSQL
+
+[LinkedIn](https://www.linkedin.com/in/ameer-gul-61b681378/) · [GitHub](https://github.com/ameergulkhan1)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 💻 Full-Stack Software Developer focused on **React, Next.js, Node.js, and TypeScript**
-- 🚀 Building full-stack applications, REST APIs, and SaaS products
-- 🗄️ Experience with **MongoDB, MySQL, PostgreSQL, and Firebase**
-- 🔐 Working with authentication, authorization, APIs, databases, and backend architecture
-- 🧩 Interested in scalable software architecture and real-world product development
-- 📚 Continuously improving my skills in software engineering and system design
-- 💼 Open to **Junior Full-Stack Developer, Associate Software Engineer, and MERN/Next.js opportunities**
+* Full-Stack Software Developer with hands-on experience across **frontend and backend development**
+* Build applications using **React, Next.js, TypeScript, Node.js, and REST APIs**
+* Experience working with **PostgreSQL, MySQL, MongoDB, and Firebase**
+* Develop **authentication, authorization, database integrations, and API-driven applications**
+* Experience with **Python, FastAPI, Django, background processing, and backend workflows**
+* Interested in **SaaS products, backend engineering, system design, and scalable application architecture**
+* Open to **Junior Full-Stack Developer, Associate Software Engineer, and MERN/Next.js opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
+</p>
+
+### Databases & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 </p>
 
 ### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 📦 Orderly — Seller Order & Payment Management SaaS
+### Orderly — Seller Order Management SaaS
 
-A SaaS platform focused on helping sellers manage orders, payments, deposits, deliveries, and business operations from a centralized dashboard.
+A SaaS platform for sellers to manage **products, customers, orders, payments, deposits, and deliveries** through a centralized system.
 
-**Tech:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma
 
-> 🚧 Currently in active development
+**Engineering focus:**
 
----
+* Role-based access control
+* Authenticated APIs
+* Database-driven business workflows
+* Order and payment management
+* Seller-focused dashboard architecture
 
-### 💳 BNPL Installment Engine
-
-A backend system for **Buy Now, Pay Later (BNPL)** workflows, including installment schedules, payment processing, payment retries, and transaction management.
-
-**Tech:** Node.js · Express.js · SQLite · REST API
-
-🔗 Repository:  
-https://github.com/ameergulkhan1/bootcamp-2026-The-Buy-Now-Pay-Later-BNPL-Installment-Engine
+> **Status:** Active development
 
 ---
 
-### 🏥 ClinixSol — AI Healthcare Platform
+### BNPL Installment Engine
 
-A healthcare platform designed to connect patients, doctors, laboratories, and pharmacies through a centralized digital system.
+A backend system implementing **Buy Now, Pay Later** workflows with installment schedules, payment states, payment retries, and transaction handling.
 
-**Tech:** React.js · Node.js · APIs · Authentication · Database
+**Stack:** Node.js · Express.js · SQLite · REST API
 
-🔗 Repository:  
-https://github.com/ameergulkhan1/clinixsol-frontend
+**Engineering focus:**
+
+* Installment lifecycle management
+* Payment state handling
+* Retry workflows
+* REST API design
+* Database operations
+
+[View Repository](https://github.com/ameergulkhan1/bootcamp-2026-The-Buy-Now-Pay-Later-BNPL-Installment-Engine)
 
 ---
 
-### 🎫 Event Management System
+### KFT — Food & E-Commerce Platform
 
-A full-stack web application for managing events and related application workflows.
+A food and wellness e-commerce platform supporting **product discovery, customer workflows, and online ordering**.
 
-**Tech:** React.js · Node.js · Express.js · Database
+**Stack:** React.js · Node.js · Express.js · PostgreSQL
+
+**Engineering focus:**
+
+* Backend API development
+* Product workflows
+* Order management
+* PostgreSQL integration
 
 ---
 
-## 📊 GitHub Activity
+### ClinixSol — AI Healthcare Platform
+
+A healthcare platform designed around workflows connecting **patients, doctors, laboratories, and pharmacies** through a centralized application.
+
+**Stack:** React.js · Node.js · APIs · Authentication · Database
+
+[View Repository](https://github.com/ameergulkhan1/clinixsol-frontend)
+
+---
+
+### Plant Care & Hybridization System
+
+An AI-assisted plant care platform developed as a university project, combining plant identification, disease detection, growth tracking, and hybridization-related functionality.
+
+**Stack:** React.js · Node.js · Python · Firebase
+
+---
+
+## Engineering Interests
+
+```text
+Full-Stack Development
+Backend Engineering
+REST API Design
+Authentication & Authorization
+Database Design
+SaaS Architecture
+Business Workflow Systems
+System Design
+```
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img
@@ -96,17 +153,13 @@ A full-stack web application for managing events and related application workflo
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/ameer-gul-61b681378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ameergulkhan1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:ameeergul975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
