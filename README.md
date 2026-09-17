@@ -67,6 +67,7 @@ A SaaS platform for sellers to manage **products, customers, orders, payments, d
 * Seller-focused dashboard architecture
 
 > **Status:** Active development
+> [view repo](https://github.com/ameergulkhan1/orderly-saas-system)
 
 ---
 
