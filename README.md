@@ -1,167 +1,81 @@
 # Ameer Gul Khan
 
-### Full-Stack Software Developer
+### Full-Stack Software Developer | React, Next.js, TypeScript & Node.js
 
-I build **full-stack web applications, backend services, and SaaS products** with a focus on reliable APIs, database-driven systems, authentication, and real-world business workflows.
+I build full-stack web applications and backend services, focusing on clean user interfaces, REST APIs, database-driven systems, authentication, and practical business workflows.
 
-**Primary stack:** React · Next.js · TypeScript · Node.js · PostgreSQL
+**Currently targeting:** Junior Full-Stack Developer · Junior Web Developer · Associate Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/ameer-gul-61b681378/) · [GitHub](https://github.com/ameergulkhan1) .
-[orderly](https://orderly-saas-system-x8md.vercel.app/)
-
----
-
-## About
-
-* Full-Stack Software Developer with hands-on experience across **frontend and backend development**
-* Build applications using **React, Next.js, TypeScript, Node.js, and REST APIs**
-* Experience working with **PostgreSQL, MySQL, MongoDB, and Firebase**
-* Develop **authentication, authorization, database integrations, and API-driven applications**
-* Experience with **Python, FastAPI, Django, background processing, and backend workflows**
-* Interested in **SaaS products, backend engineering, system design, and scalable application architecture**
-* Open to **Junior Full-Stack Developer, Associate Software Engineer, and MERN/Next.js opportunities**
+[LinkedIn](https://linkedin.com/in/ameer-gul-61b681378) · [GitHub](https://github.com/ameergulkhan1) · [Orderly Live Demo](https://orderly-saas-system-x8md.vercel.app/)
 
 ---
 
 ## Technical Skills
 
-### Frontend
+**Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+**Backend:** Node.js, Express.js, REST APIs, authentication and authorization
 
-### Backend
+**Databases:** PostgreSQL, MySQL, MongoDB, Firebase
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
-</p>
+**Tools & Platforms:** Git, GitHub, Postman, Vercel
 
-### Databases & Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma" />
-</p>
+**Additional Experience:** Python, Django, FastAPI
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Orderly — Seller Order Management SaaS
+### 1. Orderly — Seller Order Management SaaS
 
-A SaaS platform for sellers to manage **products, customers, orders, payments, deposits, and deliveries** through a centralized system.
+A SaaS platform designed to help sellers manage orders, products, customers, payments, deposits, inventory, and deliveries.
 
-**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma
+- Role-based access control for different business roles.
+- Backend APIs and database-driven workflows.
+- Order, payment, and inventory management.
 
-**Engineering focus:**
+**Tech Stack:** Next.js, TypeScript, Node.js, PostgreSQL, Prisma
 
-* Role-based access control
-* Authenticated APIs
-* Database-driven business workflows
-* Order and payment management
-* Seller-focused dashboard architecture
+[Source Code](https://github.com/ameergulkhan1/orderly-saas-system) · [Live Demo](https://orderly-saas-system-x8md.vercel.app/)
 
-> **Status:** Active development
-> [view repo](https://github.com/ameergulkhan1/orderly-saas-system)
+### 2. ClinixSol — Healthcare Platform
 
----
+A healthcare application designed to connect patients, doctors, laboratories, and pharmacies through coordinated digital workflows.
 
-### BNPL Installment Engine
+**Tech Stack:** React.js, Node.js, APIs, authentication, database integration
 
-A backend system implementing **Buy Now, Pay Later** workflows with installment schedules, payment states, payment retries, and transaction handling.
+[Frontend Repository](https://github.com/ameergulkhan1/clinixsol-frontend)
 
-**Stack:** Node.js · Express.js · SQLite · REST API
+### 3. BNPL Installment Engine
 
-**Engineering focus:**
+A backend project exploring Buy Now, Pay Later workflows, installment schedules, payment states, and transaction handling.
 
-* Installment lifecycle management
-* Payment state handling
-* Retry workflows
-* REST API design
-* Database operations
+**Tech Stack:** Node.js, Express.js, SQLite, REST APIs
 
-[View Repository](https://github.com/ameergulkhan1/bootcamp-2026-The-Buy-Now-Pay-Later-BNPL-Installment-Engine)
+[Source Code](https://github.com/ameergulkhan1/bootcamp-2026-The-Buy-Now-Pay-Later-BNPL-Installment-Engine)
 
----
+### 4. Event Management System
 
-### KFT — Food & E-Commerce Platform
+A university event management platform supporting student registrations, event organizers, and administrative workflows.
 
-A food and wellness e-commerce platform supporting **product discovery, customer workflows, and online ordering**.
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MySQL
 
-**Stack:** React.js · Node.js · Express.js · PostgreSQL
-
-**Engineering focus:**
-
-* Backend API development
-* Product workflows
-* Order management
-* PostgreSQL integration
+[Source Code](https://github.com/ameergulkhan1/event-management-system)
 
 ---
 
-### ClinixSol — AI Healthcare Platform
+## Professional Focus
 
-A healthcare platform designed around workflows connecting **patients, doctors, laboratories, and pharmacies** through a centralized application.
-
-**Stack:** React.js · Node.js · APIs · Authentication · Database
-
-[View Repository](https://github.com/ameergulkhan1/clinixsol-frontend)
-
----
-
-### Plant Care & Hybridization System
-
-An AI-assisted plant care platform developed as a university project, combining plant identification, disease detection, growth tracking, and hybridization-related functionality.
-
-**Stack:** React.js · Node.js · Python · Firebase
+- Full-stack web application development
+- REST API development and integration
+- Authentication and authorization
+- Database design and management
+- Testing, debugging, and deployment
 
 ---
 
-## Engineering Interests
+## Contact
 
-```text
-Full-Stack Development
-Backend Engineering
-REST API Design
-Authentication & Authorization
-Database Design
-SaaS Architecture
-Business Workflow Systems
-System Design
-```
+Open to junior software development opportunities and internships that provide meaningful engineering experience.
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ameergulkhan1&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameergulkhan1&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/ameer-gul-61b681378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ameeergul975@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[Connect on LinkedIn](https://linkedin.com/in/ameer-gul-61b681378)
