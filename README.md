@@ -38,13 +38,13 @@ A SaaS platform designed to help sellers manage orders, products, customers, pay
 
 [Source Code](https://github.com/ameergulkhan1/orderly-saas-system) · [Live Demo](https://orderly-saas-system-x8md.vercel.app/)
 
-### 2. ClinixSol — Healthcare Platform
+2. CareFusion — Healthcare Platform
+A healthcare application designed to connect patients, doctors, laboratories, and pharmacies through coordinated digital workflows, with an integrated AI-powered symptom checker for instant health insights.
 
-A healthcare application designed to connect patients, doctors, laboratories, and pharmacies through coordinated digital workflows.
+Tech Stack: React.js, Node.js, Python (Flask ML service), APIs, authentication, database integration
 
-**Tech Stack:** React.js, Node.js, APIs, authentication, database integration
+Repository
 
-[Frontend Repository](https://github.com/ameergulkhan1/clinixsol-frontend)
 
 ### 3. BNPL Installment Engine
 
